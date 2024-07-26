@@ -2,7 +2,7 @@
 
 ## Problem
 
-We need to calculate the amount of charge represented by 10 billion protons.
+We shall calculate the amount of charge represented by 10 billion protons.
 
 ## Solution
 
@@ -12,4 +12,6 @@ Knowing the charge of a proton we can calculate the amount of charge of 10 billi
 
 $$1.6021\times10^{-19}\times10^{10}=1.6021\times10^{-19+10}=1.6021\times10^{-9}$$
 
-**Answer:** $1.6021\times10^{-9}$ C.
+### Answer
+
+$1.6021\times10^{-9}$ C
