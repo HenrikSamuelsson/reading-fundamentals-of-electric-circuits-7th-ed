@@ -8,7 +8,7 @@ Given that the total charge entering a terminal is $q=(20-15t-10e^{-3t})$ mC, ca
 
 $$i=\frac{dq}{dt}=\frac{d}{dt}(20-15t-10e^{-3t})=-15+30e^{-3t}=-15+30e^{-3}=-13.506$$
 
-Since the unit for the charge q is mC so will the unit for the current be mA.
+Since the unit for the given charge $q$ is in mC so will the unit for the calculated current $i$ be in mA.
 
 ### Answer
 
