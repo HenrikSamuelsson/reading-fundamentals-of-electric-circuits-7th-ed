@@ -18,7 +18,7 @@ We now know how the current varies over time. It is stated in the problem that w
 
 $$i=30e^{-3t}-15=30e^{-3\times1.0}-15=30e^{-3}-15$$
 
-To get the current as a single value we use an scientific calculator, which gives us:
+To get the current as a single value we use an scientific calculator:
 
 $$i=30e^{-3}-15\approx-13.506$$
 
